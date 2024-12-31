@@ -1,0 +1,60 @@
+.registerBlock {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 5%;
+  justify-content: center;
+  align-items: center;
+}
+
+.registerInput {
+  min-width: 20rem;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid skyblue;
+}
+
+.registerBtn {
+  background-color: skyblue;
+  border: none;
+  padding: 10px;
+  width: 17%;
+  margin: auto;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #fff;
+}
+
+.registerBlock img {
+  width: 8rem;
+  height: 20vh;
+  margin: auto;
+}
+
+.roleblock select {
+  width: 100px;
+  padding: 5px;
+  margin-left: 5px;
+}
+
+.registerBtn {
+  all: initial;
+  size: 10px;
+  background: #bce3e9;
+  font-weight: 600;
+  font-size: 16px;
+  border: skyblue;
+  border-radius: 11px;
+  display: flex;
+  margin-left: 37%;
+  margin-top: 10%;
+  padding: 17px;
+}
+
+.signup-btn {
+  padding: 5px;
+    border-radius: 12px;
+    border: none;
+}
